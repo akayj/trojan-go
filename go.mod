@@ -1,6 +1,8 @@
 module github.com/p4gefau1t/trojan-go
 
-go 1.17
+go 1.23
+
+toolchain go1.23.4
 
 require (
 	github.com/go-sql-driver/mysql v1.6.0
